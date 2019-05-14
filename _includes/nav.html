@@ -14,11 +14,7 @@
 
         {% if page.title == "Blog" %}
         <li class="active"><a href="{{ site.baseurl }}/blog">Blog</a></li>
-        {% else %}
-        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-        {% endif %}
-
-        {% if page.layout == "default" %}
+        {% elsif page.layout == "default" %}
         <li class="active"><a href="{{ site.baseurl }}/blog">Blog</a></li>
         {% else %}
         <li><a href="{{ site.baseurl }}/blog">Blog</a></li>

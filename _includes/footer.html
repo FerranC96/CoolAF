@@ -1,0 +1,51 @@
+<footer id="footer">
+    <section>
+        <form method="post" action="#">
+            <div class="fields">
+                <div class="field">
+                    <label for="name">Name</label>
+                    <input type="text" name="name" id="name" />
+                </div>
+                <div class="field">
+                    <label for="email">Email</label>
+                    <input type="text" name="email" id="email" />
+                </div>
+                <div class="field">
+                    <label for="message">Message</label>
+                    <textarea name="message" id="message" rows="3"></textarea>
+                </div>
+            </div>
+            <ul class="actions">
+                <li><input type="submit" value="Send Message" /></li>
+            </ul>
+        </form>
+    </section>
+    <section class="split contact">
+        <section class="alt">
+            <h3>Address</h3>
+            <p>{{ site.street-address }}<br />
+                {{ site.city }}, {{ site.state-province }} {{ site.postal-code }}</p>
+        </section>
+        <section>
+            <h3>Phone</h3>
+            <p><a href="tel:{{ site.telephone }}">{{ site.telephone }}</a></p>
+        </section>
+        <section>
+            <h3>Email</h3>
+            <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        </section>
+        <section>
+            <h3>Social</h3>
+            {%- include social.html -%}
+        </section>
+    </section>
+</footer>
+
+<!-- Copyright -->
+<div id="copyright">
+    <ul>
+        <li>Copyright &copy; {{ site.author }} {{ site.current-year }}</li>
+        <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+        <li><a href="https://jekyllrb.com">Jekyll</a>-ized: <a href="https://github.com/riyaadazad" target="_blank">Riyaad Azad</a></li>
+    </ul>
+</div>

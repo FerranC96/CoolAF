@@ -7,13 +7,13 @@ show-date: false
 image-url: #
 image-alt: #
 ---
-<!-- Use images with a nice resolution:
+<!-- Use images with a nice resolution: -->
 
 <div class="image main">
-<img src="https://apod.nasa.gov/apod/image/1903/M15_Gaia_stars1024b.gif" alt="">
+<img src="https://lh3.googleusercontent.com/4ErcfDSlbXxo3K75uJX8xB5ddInEXfO02ccFFajKzQ_MQxbhhzdlB-gs1h9cnJBCKPhV83fX67DWgYX0gOe-XlJshssYLvRtdyU3gMReXXLvUl-1LjwAs0QL_e3P_26J5NqkZZrFSAGjcOMvbRnobaN6ciQ7R1vjeXcSrpg8Ti9JgRW47QJWURGyXw5G4tEIKvJDVNsUbHMiSmLxG8OqPg9RlMYQTOjh_l4TJEktACcbbEC8OWCxKmmbSaN3MzfhIKY_7jeODxPnVJ_9THav2b18J_jXky4xgTzFTJtnBbg7oPQYS_O8Jw0UzXBhNPLAfiL8vwairA5QGTedMYHGeab68sGAHjhdCEojplhwaPt8iR5qO-PAiLWsd5fvFuWcP5TaHXr8qPt8KkbXM9IonNA_-Nr49gfyvViCs_lTqYTb_kbe3OmF43Vfh8GvD9qTHucpOmPBUtGGMraC6QV34oDL6tUBynfLbDAf7nitr4o6mQz0fJ827cSmgsWdsUbrudZBSsKGA0PX2xGGXdo1CZxyYHZsW00Wn8TYoRGeC93Y2PYbZyrNnqkJAx6UFl5D54NNbYrIlqiU7hMdaoZdCdUmFozvOprMvtuRte3owWmDV3XKzIXM9Cx1c-UUhsg5fHrHO8uLsf9YvQOi_XbDOetSZvm906bVT3OU-TPl2o2DkukeJHvvU2r6UlYdYiAzHtMwJlZ1rmqOnxZP0tIxhW7p=w1197-h798-no" alt="">
 </div>
 
--->
-#**WIP**#
+##**WIP**
+
 Watch us set aside the renowned Madrid-Barcelona rivalry while we travel around the world!
-<!-- Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**. -->
+

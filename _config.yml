@@ -47,3 +47,12 @@ youtube_channel: UCwi7V9DNkCKLouTjRAfs7fw
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+author:

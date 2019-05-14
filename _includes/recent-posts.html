@@ -5,7 +5,7 @@
             <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-        <a href="{{ page.image-url }}" class="image fit"><img src="{{ page.image-url }}" alt="{{ page.image-alt }}" /></a>
+        <a href="{{ post.image-url }}" class="image fit"><img src="{{ post.image-url }}" alt="{{ post.image-alt }}" /></a>
         <p style="text-align:center;">{{ post.description }}</p>
         <ul class=" actions special">
             <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">See More</a></li>

@@ -17,6 +17,12 @@
         {% else %}
         <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
         {% endif %}
+
+        {% if page.layout == "default" %}
+        <li class="active"><a href="{{ site.baseurl }}/blog">Blog</a></li>
+        {% else %}
+        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+        {% endif %}
     </ul>
     {% include social.html %}
 </nav>

@@ -1,8 +1,8 @@
 ---
-title: Welcome!
+title: Welcome
 layout: home
-description: This is the description for the home page.
-date: 2019-03-28
+description: To the place where we show the world the cool stuff we do!.
+date: 2019-05-14
 show-date: false
 image-url: #
 image-alt: #
@@ -14,5 +14,6 @@ image-alt: #
 </div>
 
 -->
-
-Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
+**WIP**
+Watch us set aside the renowned Madrid-Barcelona rivalry while we travel around the world!
+<!-- Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**. -->

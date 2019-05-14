@@ -3,11 +3,10 @@ brand: Massively
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/html5up-massively-jekyll" # the subpath of your site, e.g. /blog
-aboutme: We are an XYZ company dedicated to satisfying our customers.
+  Welcome to @Anukisima's and @FerranC96's personal blog;
+  the place where we show the world the cool stuff we do!
+baseurl: "/CoolAF" # the subpath of your site, e.g. /blog
+aboutme: Welcome to <a href="https://www.instagram.com/anukisima/">@Anukisima</a>'s and <a href="https://twitter.com/ferranc96">@FerranC96</a>'s personal blog; the place where we show the world the cool stuff we do!.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 street-address: 1234 Somewhere Road
 city: Any City
@@ -21,17 +20,17 @@ page-3: #
 show_excerpts: false # set to true to show excerpts on the homepage
 # generate social links in footer
 social_links:
-twitter: jekyllrb
-github:  jekyll
+#twitter: jekyllrb
+#github:  jekyll
 # rss: rss
 # dribbble: jekyll
-facebook: GitHub
+#facebook: GitHub
 # flickr:   jekyll
-instagram: jekyll
+instagram: cool.a.f
 # linkedin: jekyll
 # pinterest: jekyll
-# youtube: jekyll
-# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+youtube: UCwi7V9DNkCKLouTjRAfs7fw
+youtube_channel: UCwi7V9DNkCKLouTjRAfs7fw
 # youtube_channel_name: CloudCannon
 # telegram: jekyll
 # googleplus: +jekyll

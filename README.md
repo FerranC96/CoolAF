@@ -1,7 +1,6 @@
 **Cool AF**
 
 This is our personal website, with a blog section, guides and articles.
-Test with WSL git!
 
 Credits:
 

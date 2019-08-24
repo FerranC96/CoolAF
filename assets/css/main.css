@@ -3207,7 +3207,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://lh3.googleusercontent.com/2jrwndduNC6Q0ulVYXgCoQgfKdfv_Wrs1XoL-4635ZwpBndqOB8SS_8wK20VNdpwH90F7ksS5X_7D2IoCTxal3hcsmb78W0UGnke3BMjNXBFUBZT2AxtDBFGI6VPpeNdkVSz00-TSaf93xKQZuS5Kpr_uRHTYWpHjlTWekzJz1zgaQS17U_h5XK7TCIcMAsafJ1-pxA6sMknXXIjHOiqN2y45pl5JEN2k_tICGhozFIAUdTeLcdV-3QGjGQ8KZPMx2zD7P3YBEMm0Lwi5d759urjSUzVzHMIBWZfRcXyXYcSyW7-rpASH3KK7L66YnZ2yE3CwQqqMbNYdStDZC6701oMVN7pWuXObF48WLKADzxPICUSgIegMczENpQwNxyOPbsa0jjDyR9hickcZ47yiNyzWIHF-bM4YGXOknct30sjvj_t8Tz6rVN4_qqMMRzmqmzcVsiI6JczFqngQDjWL8TTf0oFFLK4t-C-AGvJb32f5XVL5wZGT8BBereD3UDMkSM397H-M0G9Ery2GwruIatlyI4IB95pNvmlsyOoCEHrz_aB1NxEexeCcjt9AuoCGLv72DU8PhNIuNdlb_vJ5kVz3Efy4d9JxpTN1JZHlYexWudd3B43aTcJDuUsn1RWBRzZ4clx_uuD8dxCNyqp-tuNRh0fwyQU=w1259-h944-no");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
